@@ -1,0 +1,6 @@
+C:\Users\juliakarol\source\repos\RPG\RPG\obj\Debug\RPG.csprojAssemblyReference.cache
+C:\Users\juliakarol\source\repos\RPG\RPG\bin\Debug\RPG.exe.config
+C:\Users\juliakarol\source\repos\RPG\RPG\bin\Debug\RPG.exe
+C:\Users\juliakarol\source\repos\RPG\RPG\bin\Debug\RPG.pdb
+C:\Users\juliakarol\source\repos\RPG\RPG\obj\Debug\RPG.exe
+C:\Users\juliakarol\source\repos\RPG\RPG\obj\Debug\RPG.pdb

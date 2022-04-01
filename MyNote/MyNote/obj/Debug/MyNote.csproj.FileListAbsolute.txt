@@ -1,0 +1,10 @@
+C:\Users\juliakarol\source\repos\MyNote\MyNote\bin\Debug\MyNote.exe.config
+C:\Users\juliakarol\source\repos\MyNote\MyNote\bin\Debug\MyNote.exe
+C:\Users\juliakarol\source\repos\MyNote\MyNote\bin\Debug\MyNote.pdb
+C:\Users\juliakarol\source\repos\MyNote\MyNote\obj\Debug\MyNote.csprojAssemblyReference.cache
+C:\Users\juliakarol\source\repos\MyNote\MyNote\obj\Debug\MyNote.Form1.resources
+C:\Users\juliakarol\source\repos\MyNote\MyNote\obj\Debug\MyNote.Properties.Resources.resources
+C:\Users\juliakarol\source\repos\MyNote\MyNote\obj\Debug\MyNote.csproj.GenerateResource.cache
+C:\Users\juliakarol\source\repos\MyNote\MyNote\obj\Debug\MyNote.exe
+C:\Users\juliakarol\source\repos\MyNote\MyNote\obj\Debug\MyNote.pdb
+C:\Users\juliakarol\source\repos\MyNote\MyNote\obj\Debug\MyNote.About.resources

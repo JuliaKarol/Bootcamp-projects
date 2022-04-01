@@ -1,0 +1,29 @@
+C:\Users\juliakarol\source\repos\sqlForms\sqlForms\bin\Debug\sqlForms.exe.config
+C:\Users\juliakarol\source\repos\sqlForms\sqlForms\bin\Debug\sqlForms.exe
+C:\Users\juliakarol\source\repos\sqlForms\sqlForms\bin\Debug\sqlForms.pdb
+C:\Users\juliakarol\source\repos\sqlForms\sqlForms\bin\Debug\EntityFramework.dll
+C:\Users\juliakarol\source\repos\sqlForms\sqlForms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\juliakarol\source\repos\sqlForms\sqlForms\bin\Debug\EntityFramework.xml
+C:\Users\juliakarol\source\repos\sqlForms\sqlForms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\juliakarol\source\repos\sqlForms\sqlForms\obj\Debug\sqlForms.csprojAssemblyReference.cache
+C:\Users\juliakarol\source\repos\sqlForms\sqlForms\obj\Debug\sqlForms.Form1.resources
+C:\Users\juliakarol\source\repos\sqlForms\sqlForms\obj\Debug\sqlForms.Properties.Resources.resources
+C:\Users\juliakarol\source\repos\sqlForms\sqlForms\obj\Debug\sqlForms.csproj.GenerateResource.cache
+C:\Users\juliakarol\source\repos\sqlForms\sqlForms\obj\Debug\sqlForms.csproj.CopyComplete
+C:\Users\juliakarol\source\repos\sqlForms\sqlForms\obj\Debug\sqlForms.exe
+C:\Users\juliakarol\source\repos\sqlForms\sqlForms\obj\Debug\sqlForms.pdb
+K:\Visual studio\sqlForms\sqlForms\bin\Debug\sqlForms.exe.config
+K:\Visual studio\sqlForms\sqlForms\bin\Debug\sqlForms.exe
+K:\Visual studio\sqlForms\sqlForms\bin\Debug\sqlForms.pdb
+K:\Visual studio\sqlForms\sqlForms\bin\Debug\EntityFramework.dll
+K:\Visual studio\sqlForms\sqlForms\bin\Debug\EntityFramework.SqlServer.dll
+K:\Visual studio\sqlForms\sqlForms\bin\Debug\EntityFramework.xml
+K:\Visual studio\sqlForms\sqlForms\bin\Debug\EntityFramework.SqlServer.xml
+K:\Visual studio\sqlForms\sqlForms\obj\Debug\sqlForms.csproj.AssemblyReference.cache
+K:\Visual studio\sqlForms\sqlForms\obj\Debug\sqlForms.Form1.resources
+K:\Visual studio\sqlForms\sqlForms\obj\Debug\sqlForms.Properties.Resources.resources
+K:\Visual studio\sqlForms\sqlForms\obj\Debug\sqlForms.csproj.GenerateResource.cache
+K:\Visual studio\sqlForms\sqlForms\obj\Debug\sqlForms.csproj.CoreCompileInputs.cache
+K:\Visual studio\sqlForms\sqlForms\obj\Debug\sqlForms.csproj.CopyComplete
+K:\Visual studio\sqlForms\sqlForms\obj\Debug\sqlForms.exe
+K:\Visual studio\sqlForms\sqlForms\obj\Debug\sqlForms.pdb

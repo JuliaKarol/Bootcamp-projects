@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Ksiazka>
+  <Wpis>
+    <Nazwa>Kowalski</Nazwa>
+    <Miasto>Katowice</Miasto>
+    <Telefony>
+      <Telefon Typ="dom">465-789-123</Telefon>
+      <Telefon Typ="praca">231-782-983</Telefon>
+    </Telefony>
+  </Wpis>
+  <Ksiazka>
+    <Wpis>
+      <Nazwa>Nowak</Nazwa>
+      <Miasto>Kraków</Miasto>
+      <Telefony>
+        <Telefon Typ="dom">753-736-649</Telefon>
+        <Telefon Typ="praca">532-305-901</Telefon>
+        <Telefon Typ="praca">601-491-572</Telefon>
+      </Telefony>
+    </Wpis>
+  </Ksiazka>
+</Ksiazka>

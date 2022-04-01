@@ -1,0 +1,19 @@
+C:\Users\juliakarol\source\repos\AsyncFinal\AsyncFinal\bin\Debug\AsyncFinal.exe.config
+C:\Users\juliakarol\source\repos\AsyncFinal\AsyncFinal\bin\Debug\AsyncFinal.exe
+C:\Users\juliakarol\source\repos\AsyncFinal\AsyncFinal\bin\Debug\AsyncFinal.pdb
+C:\Users\juliakarol\source\repos\AsyncFinal\AsyncFinal\obj\Debug\AsyncFinal.csprojAssemblyReference.cache
+C:\Users\juliakarol\source\repos\AsyncFinal\AsyncFinal\obj\Debug\AsyncFinal.Form1.resources
+C:\Users\juliakarol\source\repos\AsyncFinal\AsyncFinal\obj\Debug\AsyncFinal.Properties.Resources.resources
+C:\Users\juliakarol\source\repos\AsyncFinal\AsyncFinal\obj\Debug\AsyncFinal.csproj.GenerateResource.cache
+C:\Users\juliakarol\source\repos\AsyncFinal\AsyncFinal\obj\Debug\AsyncFinal.exe
+C:\Users\juliakarol\source\repos\AsyncFinal\AsyncFinal\obj\Debug\AsyncFinal.pdb
+C:\Users\48661\projekty VS\Visual studio\AsyncFinal\AsyncFinal\bin\Debug\AsyncFinal.exe.config
+C:\Users\48661\projekty VS\Visual studio\AsyncFinal\AsyncFinal\bin\Debug\AsyncFinal.exe
+C:\Users\48661\projekty VS\Visual studio\AsyncFinal\AsyncFinal\bin\Debug\AsyncFinal.pdb
+C:\Users\48661\projekty VS\Visual studio\AsyncFinal\AsyncFinal\obj\Debug\AsyncFinal.csproj.AssemblyReference.cache
+C:\Users\48661\projekty VS\Visual studio\AsyncFinal\AsyncFinal\obj\Debug\AsyncFinal.Form1.resources
+C:\Users\48661\projekty VS\Visual studio\AsyncFinal\AsyncFinal\obj\Debug\AsyncFinal.Properties.Resources.resources
+C:\Users\48661\projekty VS\Visual studio\AsyncFinal\AsyncFinal\obj\Debug\AsyncFinal.csproj.GenerateResource.cache
+C:\Users\48661\projekty VS\Visual studio\AsyncFinal\AsyncFinal\obj\Debug\AsyncFinal.csproj.CoreCompileInputs.cache
+C:\Users\48661\projekty VS\Visual studio\AsyncFinal\AsyncFinal\obj\Debug\AsyncFinal.exe
+C:\Users\48661\projekty VS\Visual studio\AsyncFinal\AsyncFinal\obj\Debug\AsyncFinal.pdb

@@ -1,0 +1,11 @@
+C:\Users\juliakarol\source\repos\xml\xml\bin\Debug\netcoreapp3.1\xml.exe
+C:\Users\juliakarol\source\repos\xml\xml\bin\Debug\netcoreapp3.1\xml.deps.json
+C:\Users\juliakarol\source\repos\xml\xml\bin\Debug\netcoreapp3.1\xml.runtimeconfig.json
+C:\Users\juliakarol\source\repos\xml\xml\bin\Debug\netcoreapp3.1\xml.runtimeconfig.dev.json
+C:\Users\juliakarol\source\repos\xml\xml\bin\Debug\netcoreapp3.1\xml.dll
+C:\Users\juliakarol\source\repos\xml\xml\bin\Debug\netcoreapp3.1\xml.pdb
+C:\Users\juliakarol\source\repos\xml\xml\obj\Debug\netcoreapp3.1\xml.csprojAssemblyReference.cache
+C:\Users\juliakarol\source\repos\xml\xml\obj\Debug\netcoreapp3.1\xml.AssemblyInfoInputs.cache
+C:\Users\juliakarol\source\repos\xml\xml\obj\Debug\netcoreapp3.1\xml.AssemblyInfo.cs
+C:\Users\juliakarol\source\repos\xml\xml\obj\Debug\netcoreapp3.1\xml.dll
+C:\Users\juliakarol\source\repos\xml\xml\obj\Debug\netcoreapp3.1\xml.pdb
